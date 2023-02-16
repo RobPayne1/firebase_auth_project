@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302903695246",
+    "project_id": "demoscreens2",
+    "storage_bucket": "demoscreens2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302903695246:android:4d3ed780b462904625f6df",
+        "android_client_info": {
+          "package_name": "com.rwp.firebase_auth_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302903695246-1lsejp0l8quqmc72g33spanlpjoh7jtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fGzLxW2cDJXLmiyRN7pFU9yn_jYUT0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302903695246-1lsejp0l8quqmc72g33spanlpjoh7jtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
